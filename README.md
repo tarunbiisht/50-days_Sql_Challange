@@ -171,7 +171,11 @@ group by order_id,
 	product_name;
 
 
-
+/*	
+Follow me in LinkedIn ::www.linkedin.com/in/tarun-bisht-in
+Follow me in insta :: https://www.instagram.com/a2zanalysis/?hl=en
+Subscribe to our youtube channel :: https://www.youtube.com/@A2Zanalysys
+*/
 
       
       
