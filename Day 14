@@ -52,3 +52,11 @@ where city in('Delhi','Mumbai','Bangalore','Hyderabad')
 group by city
 order by total_orders desc
 	limit 1;
+
+
+
+/*	
+Follow me in LinkedIn ::www.linkedin.com/in/tarun-bisht-in
+Follow me in insta :: https://www.instagram.com/a2zanalysis/?hl=en
+Subscribe to our youtube channel :: https://www.youtube.com/@A2Zanalysys
+*/
